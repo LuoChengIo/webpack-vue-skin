@@ -1,0 +1,15 @@
+/* line 1, ../../sass/two/head.scss */
+#app {
+  background-color: #f8f2f1;
+}
+
+/* line 4, ../../sass/two/head.scss */
+.head-nav {
+  background-color: #fad4d0;
+  background: linear-gradient(left, #fad4d0, #fb958d);
+}
+
+/* line 8, ../../sass/two/head.scss */
+.box-bg {
+  background: url("../../image/flower-3363049_640.jpg") no-repeat center;
+}

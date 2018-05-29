@@ -1,0 +1,15 @@
+/* line 1, ../../sass/three/head.scss */
+#app {
+  background-color: #f9f2f5;
+}
+
+/* line 4, ../../sass/three/head.scss */
+.head-nav {
+  background-color: #ffd6e9;
+  background: linear-gradient(left, #ffe0ef, #ffc8e1);
+}
+
+/* line 8, ../../sass/three/head.scss */
+.box-bg {
+  background: url("../../image/white-1714170_640.jpg") no-repeat center;
+}
