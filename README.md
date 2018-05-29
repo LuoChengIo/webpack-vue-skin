@@ -21,4 +21,4 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ##
-该项目中theme文件夹中用到了compass,
+>该项目中theme文件夹中用到了compass,请自行下载安装
